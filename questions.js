@@ -2,7 +2,7 @@ questions =  [
     {"id": 0, "question": "Svoboda podnikání je nejpraktičtější způsob jak může lidská společnost prosperovat.", "effects": {"right": 1}},
     {"id": 1, "question": "Charita je lepší způsob pomáhání slabším než sociální zabezpečení.", "effects": {"right": 1}},
     {"id": 2, "question": "Mzdy jsou vždy spravedlivé, neboť zaměstnavatel ví moc dobře kolik peněz si jeho pracovník zaslouží.", "effects": {"right": 1}},
-    {"id": 3, "question": "Chamtivost je „přirozená lidská povaha“".", "effects": {"right": 1}},
+    {"id": 3, "question": "Chamtivost je „přirozená lidská povaha“.", "effects": {"right": 1}},
     {"id": 4, "question": "„Vykořisťování“ je zastaralý pojem, protože mezery v kapitalismu 19. století již nejsou.", "effects": {"right": 1}},
     {"id": 5, "question": "Komunismus je vzor, který v praxi nemůže nikdy fungovat.", "effects": {"right": 1}},
     {"id": 6, "question": "Danění bohatých je špatná idea a společnost by se bez něho obešla.", "effects": {"right": 1}},
