@@ -30,6 +30,18 @@ p.value-description {
     text-indent: -16pt;
     margin-left: 20pt;
 }
+img.emoji {
+            /* Since we are using SVGs, you have to change the width using CSS */
+            width:1.5em;
+
+            /* 
+            This is to make the emojis feel like actual emojis to 
+            the user and they won't act like images. This makes the emojis
+            non-reactive to any mouse events such as dragging, 
+            hovering, clicking etc. Makes it feel like its actual text.
+            */
+            pointer-events: none; 
+        }
 p.question {
     margin: 16pt auto;
     color: #333333;
